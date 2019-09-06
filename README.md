@@ -2,7 +2,7 @@
 If you have the key, then this should be a simple exercise.
 Here is something to help you along the way though...
 Imagine you are in a room, and in walks 2 Belgians.
-THey are carrying something, it is a giant number 2
+They are carrying something, it is a giant number 2
 followed by a caert and they a small 8.
 
 They look at you and say "We need this two get past the gate".
